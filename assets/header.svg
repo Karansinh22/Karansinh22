@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260" role="img" aria-label="Karansinh Desai - Robotics, Autonomy and Applied AI/ML">
+  <title>Karansinh Desai — Robotics · Autonomy · Applied AI/ML</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="55%" stop-color="#0E1C30"/>
+      <stop offset="100%" stop-color="#091522"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0A66C2"/>
+      <stop offset="50%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#76B900"/>
+    </linearGradient>
+    <linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#BFFFFF" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="3.2s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0A66C2" stop-opacity="0.34"/>
+      <stop offset="100%" stop-color="#0A66C2" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#1D3A5C" stroke-width="1" stroke-opacity="0.45"/>
+    </pattern>
+    <clipPath id="card"><rect x="0" y="0" width="1000" height="260" rx="18"/></clipPath>
+    <style>
+      .name  { font: 700 52px 'Segoe UI', Ubuntu, system-ui, -apple-system, sans-serif; fill: #F2F7FF; letter-spacing: 1.5px; }
+      .role  { font: 600 19px 'Segoe UI', Ubuntu, system-ui, sans-serif; fill: #9FC5E8; letter-spacing: 4.2px; }
+      .meta  { font: 400 14px 'Segoe UI', Ubuntu, system-ui, sans-serif; fill: #5E7C9B; letter-spacing: 1.1px; }
+      .tag   { font: 600 12px 'Cascadia Code', Consolas, monospace; fill: #7FE3F5; letter-spacing: 0.8px; }
+      .rise  { animation: rise 1.05s cubic-bezier(.2,.7,.3,1) both; }
+      .d1 { animation-delay: .10s } .d2 { animation-delay: .28s } .d3 { animation-delay: .46s } .d4 { animation-delay: .62s }
+      @keyframes rise { from { opacity: 0; transform: translateY(14px) } to { opacity: 1; transform: translateY(0) } }
+      .breathe { animation: breathe 3.6s ease-in-out infinite; transform-origin: 830px 130px; }
+      @keyframes breathe { 0%,100% { opacity:.30 } 50% { opacity:.72 } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1000" height="260" fill="url(#bg)"/>
+
+    <!-- drifting grid -->
+    <g opacity="0.5">
+      <rect x="-40" y="-40" width="1080" height="340" fill="url(#grid)">
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="34 34" dur="7s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <ellipse cx="250" cy="120" rx="400" ry="200" fill="url(#glow)"/>
+
+    <!-- telemetry trace -->
+    <path d="M0 232 L120 232 L138 210 L158 232 L300 232 L316 216 L332 240 L352 232 L560 232 L578 206 L598 232 L1000 232"
+          fill="none" stroke="#1E4B73" stroke-width="1.6" stroke-opacity="0.75"/>
+    <path d="M0 232 L120 232 L138 210 L158 232 L300 232 L316 216 L332 240 L352 232 L560 232 L578 206 L598 232 L1000 232"
+          fill="none" stroke="#22D3EE" stroke-width="2" stroke-linecap="round"
+          stroke-dasharray="140 1200" stroke-opacity="0.9">
+      <animate attributeName="stroke-dashoffset" from="1340" to="0" dur="5.5s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- LiDAR / radar module -->
+    <g transform="translate(830 130)">
+      <g class="breathe" fill="none" stroke="#2C5D8A" stroke-width="1.2">
+        <circle r="34"/><circle r="60"/><circle r="86"/><circle r="108" stroke-opacity="0.55"/>
+      </g>
+      <line x1="-108" y1="0" x2="108" y2="0" stroke="#2C5D8A" stroke-width="1" stroke-opacity="0.45"/>
+      <line x1="0" y1="-108" x2="0" y2="108" stroke="#2C5D8A" stroke-width="1" stroke-opacity="0.45"/>
+
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4.4s" repeatCount="indefinite"/>
+        <path d="M0 0 L108 -30 A112 112 0 0 1 108 30 Z" fill="url(#sweep)"/>
+        <line x1="0" y1="0" x2="108" y2="0" stroke="#7FE3F5" stroke-width="1.8" stroke-opacity="0.95"/>
+      </g>
+
+      <!-- returns -->
+      <circle cx="52"  cy="-38" r="3.6" fill="#76B900"><animate attributeName="opacity" values="0;1;1;0" dur="4.4s" begin="0.5s"  repeatCount="indefinite"/></circle>
+      <circle cx="-30" cy="-70" r="3.2" fill="#22D3EE"><animate attributeName="opacity" values="0;1;1;0" dur="4.4s" begin="1.7s"  repeatCount="indefinite"/></circle>
+      <circle cx="-74" cy="26"  r="3.4" fill="#76B900"><animate attributeName="opacity" values="0;1;1;0" dur="4.4s" begin="2.6s"  repeatCount="indefinite"/></circle>
+      <circle cx="24"  cy="80"  r="3.0" fill="#22D3EE"><animate attributeName="opacity" values="0;1;1;0" dur="4.4s" begin="3.5s"  repeatCount="indefinite"/></circle>
+      <circle cx="88"  cy="18"  r="2.8" fill="#7FE3F5"><animate attributeName="opacity" values="0;1;1;0" dur="4.4s" begin="0.1s"  repeatCount="indefinite"/></circle>
+      <circle r="5" fill="#76B900"/>
+      <circle r="5" fill="none" stroke="#76B900" stroke-width="1.5">
+        <animate attributeName="r" values="5;30" dur="2.6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.9;0" dur="2.6s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- identity -->
+    <g transform="translate(62 0)">
+      <g class="rise d1"><text class="tag" x="2" y="66">$ ros2 launch autonomy bringup.py</text></g>
+      <g class="rise d2"><text class="name" x="0" y="126">KARANSINH DESAI</text></g>
+      <g class="rise d3">
+        <rect x="2" y="146" width="330" height="3.5" rx="1.75" fill="url(#accent)"/>
+        <rect x="2" y="146" width="330" height="3.5" rx="1.75" fill="url(#shimmer)"/>
+      </g>
+      <g class="rise d3"><text class="role" x="2" y="184">ROBOTICS · AUTONOMY · APPLIED AI/ML</text></g>
+      <g class="rise d4"><text class="meta" x="2" y="212">B.Tech Information Technology · BVM Engineering College, Anand</text></g>
+    </g>
+
+    <rect x="0.5" y="0.5" width="999" height="259" rx="18" fill="none" stroke="#24486E" stroke-width="1.4"/>
+  </g>
+</svg>

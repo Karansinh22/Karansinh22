@@ -1,23 +1,22 @@
 <div align="center">
 
-# Karansinh Desai
+<img src="https://raw.githubusercontent.com/Karansinh22/Karansinh22/main/assets/header.svg" alt="Karansinh Desai — Robotics · Autonomy · Applied AI/ML" width="100%"/>
 
-### Robotics · Autonomy · Applied AI/ML
+<a href="https://www.linkedin.com/in/karansinh-desai-024144284">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Karansinh22?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Browse-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=Karansinh22&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS" alt="Profile views"/>
 
-**B.Tech Information Technology** · Birla Vishvakarma Mahavidyalaya (BVM) Engineering College, Anand, Gujarat
+<br/><br/>
 
-<p>
-  <a href="https://www.linkedin.com/in/karansinh-desai-024144284">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Karansinh22?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Browse-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&duration=3400&color=22D3EE&center=true&vCenter=true&width=760&height=45&lines=Building+robots+that+perceive%2C+decide+and+act.;ROS+2+%C2%B7+Gazebo+%C2%B7+NVIDIA+Jetson+%C2%B7+Sensor+Fusion;Computer+Vision+%C2%B7+YOLOv8+%C2%B7+OpenCV+%C2%B7+Depth+Perception;Applied+ML+that+ships%2C+not+just+trains." alt="What I build"/>
+
+<img src="https://raw.githubusercontent.com/Karansinh22/Karansinh22/main/assets/divider.svg" width="100%" alt=""/>
 
 </div>
-
----
 
 ## About
 
@@ -33,7 +32,7 @@ My work sits at the intersection of three things I care about:
 I care about engineering that survives contact with reality: honest benchmarks, reproducible pipelines,
 and code that runs on the embedded target it was written for.
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/Karansinh22/Karansinh22/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## Focus Areas
 
@@ -60,7 +59,7 @@ Ensemble learning (XGBoost, CatBoost) · feature engineering · class-imbalance 
 </tr>
 </table>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/Karansinh22/Karansinh22/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## Featured Projects
 
@@ -115,63 +114,54 @@ bidirectional speech-to-text / text-to-speech toolkit.
 
 `Python` `OpenCV` `Tesseract OCR` `Text-to-Speech` `Accessibility`
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/Karansinh22/Karansinh22/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## Tech Stack
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+**Languages & Core**
 
-**Robotics & Embedded**
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css&theme=dark" alt="Languages"/>
 
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+**Robotics · Embedded · Systems**
+
+<img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi,linux,bash,cmake,docker&theme=dark" alt="Robotics and systems"/>
+
+**AI / ML · Vision · Data**
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,tensorflow,flask,nodejs,sqlite&theme=dark" alt="AI and data"/>
+
+<br/>
+
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF6C00?style=flat-square&logo=gazebo&logoColor=white)
 ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![RPLIDAR](https://img.shields.io/badge/LiDAR-6366F1?style=flat-square)
-
-**AI / ML & Vision**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Development & Deployment**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Tesseract](https://img.shields.io/badge/Tesseract_OCR-4E9A06?style=flat-square)
 
----
+</div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Karansinh22/Karansinh22/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Karansinh22&show_icons=true&include_all_commits=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karansinh22&layout=compact&langs_count=8&hide_border=true&title_color=0A66C2" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Karansinh22&show_icons=true&include_all_commits=true&hide_border=true&border_radius=12&title_color=22D3EE&icon_color=76B900&text_color=9FC5E8&bg_color=0B1220" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Karansinh22&layout=compact&langs_count=8&hide_border=true&border_radius=12&title_color=22D3EE&text_color=9FC5E8&bg_color=0B1220" alt="Top languages"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karansinh22&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" alt="Streak"/>
+<img src="https://streak-stats.demolab.com?user=Karansinh22&hide_border=true&border_radius=12&background=0B1220&stroke=24486E&ring=22D3EE&fire=76B900&currStreakLabel=22D3EE&sideLabels=9FC5E8&dates=5E7C9B&sideNums=F2F7FF&currStreakNum=F2F7FF" alt="Contribution streak"/>
 
 </div>
 
----
+<div align="center"><img src="https://raw.githubusercontent.com/Karansinh22/Karansinh22/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## Currently
 
@@ -180,7 +170,7 @@ bidirectional speech-to-text / text-to-speech toolkit.
 - 🎯 Interested in **robotics, autonomy, perception and applied ML** roles and collaborations
 - 💬 Happy to talk about ROS 2, embedded computer vision, or squeezing ML models onto edge hardware
 
----
+<br/>
 
 <div align="center">
 
@@ -190,8 +180,8 @@ bidirectional speech-to-text / text-to-speech toolkit.
   <img src="https://img.shields.io/badge/LinkedIn-Karansinh_Desai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Karansinh22&style=flat-square&color=0A66C2" alt="Profile views"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,50:22D3EE,100:76B900&height=130&section=footer" width="100%" alt=""/>
 
 </div>

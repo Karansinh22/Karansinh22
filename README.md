@@ -162,7 +162,7 @@ bidirectional speech-to-text / text-to-speech toolkit.
 
 <img src="https://raw.githubusercontent.com/Karansinh22/Karansinh22/main/assets/languages.svg" alt="Language distribution across public repositories" width="46%"/>
 &nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=Karansinh22&hide_border=true&border_radius=12&background=0B1220&stroke=1E3E60&ring=22D3EE&fire=76B900&currStreakLabel=22D3EE&sideLabels=9FC5E8&dates=55738F&sideNums=EDF4FF&currStreakNum=EDF4FF" alt="Contribution streak" width="50%"/>
+<img src="https://streak-stats.demolab.com?user=Karansinh22&hide_border=true&border_radius=12&background=0B1220&stroke=1E3E60&ring=22D3EE&fire=76B900&currStreakLabel=22D3EE&sideLabels=9FC5E8&dates=55738F&sideNums=EDF4FF&currStreakNum=EDF4FF&disable_animations=true" alt="Contribution streak" width="50%"/>
 
 </div>
 

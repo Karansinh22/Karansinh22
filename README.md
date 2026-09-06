@@ -60,6 +60,20 @@ Ensemble learning (XGBoost, CatBoost) · feature engineering · class-imbalance 
 
 ## Featured Projects
 
+### 🏥 [Companio — Autonomous Healthcare Assistance Robot](https://github.com/Karansinh22/ROBOFEST5.0_Companio_Healthcare)
+> **Robofest 5.0** (GUJCOST) · Team Roboraptos · Robotics Software Engineer
+
+A compact mobile manipulator that maps a hospital ward, learns named rooms, and autonomously delivers
+items between them while avoiding people and obstacles. Runs **2D SLAM** (RPLidar A1 + GMapping with
+wheel-encoder odometry), **AMCL localisation with move_base/DWA** planning and re-planning, and **two
+4-DOF servo arms** driven by analytic and numerical inverse kinematics. Adds voice commands
+("go to Ward A"), a live web telemetry dashboard, and line/zone following with QR junction routing —
+the whole stack containerised on a Raspberry Pi 5.
+
+`ROS Noetic` `Python` `SLAM` `AMCL / move_base` `Inverse Kinematics` `Docker` `Raspberry Pi 5`
+
+---
+
 ### 🌾 [Autonomous Agrobot](https://github.com/Karansinh22/Krishna_Arduino_Unoq) — AI Precision Weed Control
 > **Arduino Physical AI Challenge India 2026** · Team Krishna · Track: Industrial AI Sustainability
 
@@ -104,10 +118,10 @@ Streamlit dashboard with choropleth mapping.
 
 ---
 
-### 🔤 [CV Text Reader](https://github.com/Karansinh22/CV) · [Speech & Vision Toolkit](https://github.com/Karansinh22/Speechtotext_and_cv)
+### 🎧 [Speech & Vision Toolkit](https://github.com/Karansinh22/Speechtotext_and_cv)
 Real-time assistive perception: reads text from a live camera feed with **Tesseract OCR**, speaks it aloud,
 and raises visual/audio alerts on target keywords — with CSV logging for every detection. Paired with a
-bidirectional speech-to-text / text-to-speech toolkit.
+bidirectional speech-to-text / text-to-speech web app.
 
 `Python` `OpenCV` `Tesseract OCR` `Text-to-Speech` `Accessibility`
 

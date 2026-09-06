@@ -116,15 +116,6 @@ Streamlit dashboard with choropleth mapping.
 
 `Python` `Pandas` `Plotly` `scikit-learn` `Streamlit` `GeoJSON`
 
----
-
-### 🎧 [Speech & Vision Toolkit](https://github.com/Karansinh22/Speechtotext_and_cv)
-Real-time assistive perception: reads text from a live camera feed with **Tesseract OCR**, speaks it aloud,
-and raises visual/audio alerts on target keywords — with CSV logging for every detection. Paired with a
-bidirectional speech-to-text / text-to-speech web app.
-
-`Python` `OpenCV` `Tesseract OCR` `Text-to-Speech` `Accessibility`
-
 <div align="center"><img src="https://raw.githubusercontent.com/Karansinh22/Karansinh22/main/assets/divider.svg" width="100%" alt=""/></div>
 
 ## Tech Stack
